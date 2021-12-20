@@ -1,0 +1,1 @@
+INSERT INTO public.buyer (name) VALUES ('tima');
